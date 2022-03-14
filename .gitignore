@@ -1,0 +1,7 @@
+/.idea/
+target/
+test/
+resources/
+*.json
+.DS_Store
+Thumbs.db
